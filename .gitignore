@@ -1,0 +1,10 @@
+# Ignore VS code folder, pycache, Mac OS indexing files, ...
+**.vscode/
+**__pycache__/
+**.DS_Store
+
+# Ignore local files for future dev
+dev/*
+TODO.txt
+
+
